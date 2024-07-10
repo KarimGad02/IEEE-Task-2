@@ -1,3 +1,3 @@
-src folder of a nestjs task done with graphql. 
+src folder of a NestJS task done with GraphQL. 
 
-all crud functions
+all crud functions implemented
